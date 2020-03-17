@@ -61,6 +61,7 @@ h3 {
 }
 
 #title {
+	font-family: 'comicsans';
 	color: #B54EFF;
 	font-style: italic;
 	margin-left: 1em;
@@ -75,4 +76,9 @@ h3 {
 .media2 {
 	display:flex;
 	justify-content:space-evenly;
+}
+
+.third {
+	color: #7000A5;
+	text-decoration: underline;
 }
