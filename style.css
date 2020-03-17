@@ -14,3 +14,12 @@ body {
 html {
    background-color: lightblue;
 }
+h3 {
+  color: #E6970D;
+}
+.maininfo {
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  flex-direction:column;
+}
