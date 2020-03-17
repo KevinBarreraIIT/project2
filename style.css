@@ -65,3 +65,14 @@ h3 {
 	font-style: italic;
 	margin-left: 1em;
 }
+
+#title2 {
+	font-family: 'Courier New', Courier, monospace;
+	color: #FF22BC;
+	text-align: center;
+}
+
+.media2 {
+	display:flex;
+	justify-content:space-evenly;
+}
