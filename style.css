@@ -11,4 +11,6 @@
 body {
     font-family: 'Arbutus Slab';font-size: 22px;
 }
-
+html {
+   background-color: lightblue;
+}
