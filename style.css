@@ -1,6 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Arbutus+Slab');
+
 #navigation {
 	text-align: center;
 	font-family: arial;
 	padding: 20px;
+}
+
+
+
+body {
+    font-family: 'Arbutus Slab';font-size: 22px;
 }
 
