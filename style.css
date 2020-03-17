@@ -59,6 +59,9 @@ h3 {
 	display:flex;
 	justify-content:space-evenly;
 }
-.title {
-	margin-left: 2em;
+
+#title {
+	color: #B54EFF;
+	font-style: italic;
+	margin-left: 1em;
 }
